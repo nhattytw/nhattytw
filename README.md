@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 -->
 
 <h3>Things I code with</h3>
-
-
 <p>
   <img alt="Apollo (GraphQL)" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
