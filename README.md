@@ -18,38 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <h3>Things I code with</h3>
-<p>
-  <img alt="Apollo (GraphQL)" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-squared&logo=apollo-graphql&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-squared&logo=bootstrap&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-squared&logo=c-sharp&logoColor=white" />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-squared&logo=.net&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js-000000?style=flat-squared&logo=express&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-squared&logo=git&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-squared&logo=github-actions&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-squared&logo=graphql&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-squared&logo=html5&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-squared&logo=javascript&logoColor=black" />
-  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-squared&logo=jupyter&logoColor=white" />
-  <img alt="JWT/JSON Web Token" src="https://img.shields.io/badge/JWT-000000?style=flat-squared&logo=JSON%20web%20tokens&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-squared&logo=linux&logoColor=black" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-squared&logo=mongodb&logoColor=white" />
-  <img alt="MERN Stack (MongoDB, Express, React, Node.js)" src="https://img.shields.io/badge/MERN-4DB33D?style=flat-squared&logo=none&logoColor=white" />
-  <img alt="MUI" src="https://img.shields.io/badge/-MUI-007FFF?style=flat-squared&logo=mui&logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/-NestJs-E0234E?style=flat-squared&logo=nestjs&logoColor=white" />
-  <img alt="Next Js" src="https://img.shields.io/badge/-Next-black?style=flat-squared&logo=next.js&logoColor=white" />
-  <img alt="Nodemon" src="https://img.shields.io/badge/-NODEMON-76D04B?style=flat-squared&logo=nodemon&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-squared&logo=Node.js&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-squared&logo=npm&logoColor=white" />
-  <img alt="PERN Stack (PostgreSQL, Express, React, Node.js)" src="https://img.shields.io/badge/PERN-4169E1?style=flat-squared&logo=none&logoColor=white" />
-  <img alt="Postgres" src="https://img.shields.io/badge/-Postgresql-4169E1?style=flat-squared&logo=postgresql&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-squared&logo=postman&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-squared&logo=python&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-squared&logo=react&logoColor=black" />
-  <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-squared&logo=Sequelize&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-squared&logo=styled-components&logoColor=white" />
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-squared&logo=visual-studio&logoColor=white" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-squared&logo=visual-studio-code&logoColor=white" />
-</p>
+
 
 <p>
   <img alt="Apollo (GraphQL)" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" />
